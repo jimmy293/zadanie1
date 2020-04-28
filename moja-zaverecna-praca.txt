@@ -1,1 +1,2 @@
 programovanie databazových aplikacii
+Programovanie databázových aplikácií sa zakláda na vytvorení databázovej apkky.
